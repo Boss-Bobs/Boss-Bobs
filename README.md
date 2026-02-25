@@ -6,7 +6,7 @@ I am a passionate engineer focused on bridging the gap between hardware and soft
 - 🛠️ **Current Focus:** Advancing my skills in JavaScript and Deep Learning.
 - 🚀 **Latest Project:** [Bandit Detection System](https://github.com/Boss-Bobs/Bandit-Detection-System-AI-Blockchain) — An AI-driven surveillance system with IoT integration.
 - 💻 **Tech Stack:** HTML, CSS, Python (TensorFlow/OpenCV), C++.
-- 📧 **Connect with me:** www.linkedin.com/in/destiny-onoja-6b240a367 
+- 📧 **Connect with me:** www.linkedin.com/in/destiny-onoja-6b240a367, https://wa.me/2349054291221
 
 ---
 *"The goal of engineering is to take something complex and make it functional."*
